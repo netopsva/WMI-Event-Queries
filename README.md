@@ -24,3 +24,6 @@ User and System Attribution: Administrators can gain insights into the users or 
 Real-time Alerts for Critical Events: NetOpsVA can be configured to generate real-time alerts for critical events, ensuring prompt notification and response to issues that require immediate attention.
 Historical Event Analysis: The tool retains historical data, enabling administrators to perform in-depth analysis of past events. This is particularly valuable for trend analysis, identifying patterns, and conducting forensic investigations.
 Security Compliance Checks: NetOpsVA assists in auditing event logs for security compliance, ensuring that the system adheres to established security policies and that potential risks are promptly identified and addressed.
+
+Email: netopsva@gmail.com
+site: https://netopsva.com
